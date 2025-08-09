@@ -1,0 +1,9 @@
+pandas
+pypdf
+pytesseract
+opencv-python
+Pillow
+rapidfuzz
+numpy
+regex
+openpyxl
