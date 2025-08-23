@@ -13,7 +13,6 @@ Each application has:
 Produce an **Excel report** with a **match percentage** per applicant; flag **OK** if score ≥ **90%** (tunable).
 
 ## High‑Level Flow
-```mermaid
 flowchart LR
   A[Applicants CSV (typed data)] --> C[Matcher]
   B[PDFs (ID scans)] --> D[OCR Extraction]
